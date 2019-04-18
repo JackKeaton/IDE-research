@@ -5,15 +5,16 @@
 ![Atom logo](./logo.png)
 
 
-#### Summary
+##### Summary
 [Atom](https://atom.io/) is an IDE that completely shapes to your needs and preferences, wether you like to work alone or in a group, like a heavily customised editor, or keep it clean. With a massive amount of extensions, Github support built in and a huge support base both from Atom itself and people outside it, Atom does not leave you wanting.
 
-### Pros and Cons
+#### Pros and Cons
 
-#### Autocorrect
-As a junior web developer, typing fast isn't an issue, typing correctly isn't an issue. But doing both at the same time tends to be a challenge. Sooner or later I overlook a typo and have to backtrack. For now, that's easy. But finding a bug in a haystack only get's harder. The autocorrect prevents that often enough.
+### Pros
+1. Autocorrect
+As a junior web developer, typing fast isn't an issue. Typing correctly isn't an issue. But doing both at the same time tends to be a challenge. Sooner or later I overlook a typo and have to backtrack. For now, that's easy. But finding a bug in a haystack only gets harder. The autocorrect prevents that often enough.
 
-#### Customisation
+2. Customisation
 There are ridiculous amounts of packages, themes and customisations.
 
 Feature | Detail
@@ -23,5 +24,16 @@ Visual | Themes
 Aid | UI
 Apps | Javascript editing possible
 
-#### Collaboration
-Imagine working on a project. Now imagine working on a project like we worked on the template earlier
+3. Multiplatform
+Not rare, but still a great feature. If I ever succumb to the Apple marketin machine, at least Atom won't abandon me.
+
+4. Panelling
+Like tabs in Chrome, this lets me multitask, compare and keep an overview.
+
+### Cons
+
+1. Collaboration
+Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. Personally, the "teletype" function feels like hell to me. No, worse than hell. Whatever is below it. Probably a Primark on a Saturday.
+
+2. Autocorrect
+Yes. Most of the time it prevents me from making ridiculous mistakes. But the other 25% of the time, it's just a flashing array of pop-ups, suggesting that I want to talk about motherduckers.
