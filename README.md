@@ -15,11 +15,11 @@
 ### Pros and Cons
 
 #### Pros
-**1. Autocorrect**
+##### Autocorrect
 
 As a junior web developer, typing fast isn't an issue. Typing correctly isn't an issue. But doing both at the same time tends to be a challenge. Sooner or later I overlook a typo and have to backtrack. For now, that's easy. But finding a bug in a haystack only gets harder. The autocorrect prevents that often enough.
 
-**2. Customisation**
+##### Customisation
 
 There are ridiculous amounts of packages, themes and customisations.
 
@@ -30,30 +30,37 @@ Visual | Themes
 Aid | UI
 Apps | Javascript editing possible for add-ons
 
-**3. Multiplatform**
+##### Multiplatform
 
-Not rare, but still a great feature. If I ever succumb to the Apple marketing machine, at least Atom won't abandon me.
+Not rare, but still a great feature.
 
-**4. Panelling**
+Atom works on:
+1. Windows
+2. Apple
+3. Linux
+
+If I ever succumb to the Apple marketing machine, at least Atom won't abandon me.
+
+##### Panelling
 
 Like tabs in Chrome, this lets me multitask, compare and keep an overview.
 
 #### Cons
 
-**1. Teletype**
+##### Teletype
 
 > Hell is other people.
-> - Sartre
+>  - Sartre
 
-Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. That's teletype. It feels like hell to me. No, worse than hell. *Whatever is below it. Probably a Primark on a Saturday.*
+Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. That's teletype. It feels like hell to me. No, worse than hell. Whatever is below it. Probably a Primark on a Saturday.
 
 
 
-**2. Autocorrect**
+##### Autocorrect
 
-Yes. Most of the time it prevents me from making ridiculous mistakes. But the other 25% of the time, it's just a flashing array of pop-ups, suggesting that I want to talk about motherduckers.
+Yes. Most of the time it prevents me from making ridiculous mistakes. But the other 25% of the time, it's just a flashing array of pop-ups, suggesting that I want to talk about *motherduckers*.
 
-**3. Paralysis of choice**
+##### Paralysis of choice
 
 Having infinite options to choose from is usually great, but as a beginning coder, it can really leave you staring slack-jawed at a huge list of options.
 
