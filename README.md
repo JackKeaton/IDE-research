@@ -38,7 +38,12 @@ Like tabs in Chrome, this lets me multitask, compare and keep an overview.
 
 **1. Collaboration**
 
-Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. Personally, the "teletype" function feels like hell to me. No, worse than hell. Whatever is below it. Probably a Primark on a Saturday.
+> Hell is other people.
+> - Sartre
+
+Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. Personally, the "teletype" function feels like hell to me. No, worse than hell. *Whatever is below it. Probably a Primark on a Saturday.*
+
+
 
 **2. Autocorrect**
 
@@ -48,13 +53,20 @@ Yes. Most of the time it prevents me from making ridiculous mistakes. But the ot
 
 Having infinite options to choose from is usually great, but as a beginning coder, it can really leave you staring slack-jawed at a huge list of options.
 
-###Suggestions
+### Suggestions
 
  - [x]Install ATOM
  - [x]Choose a theme
  - [ ]Pick a UI
  - [ ]Marvel at your new world
 
+### Why choose this UI?
+ - Beginner friendly
+  - Easy setup
+  - themes and UI's readily Available
+  - great opening screen and tutorials
+ - Looks great
+ - Smoother than a sax solo :smirk:
 
 
-[##DOWNLOAD HERE](https://atom.io/download/deb)
+## [DOWNLOAD HERE](https://atom.io/download/deb)
