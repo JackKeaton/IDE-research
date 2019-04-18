@@ -36,12 +36,12 @@ Like tabs in Chrome, this lets me multitask, compare and keep an overview.
 
 #### Cons
 
-**1. Collaboration**
+**1. Teletype**
 
 > Hell is other people.
 > - Sartre
 
-Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. Personally, the "teletype" function feels like hell to me. No, worse than hell. *Whatever is below it. Probably a Primark on a Saturday.*
+Imagine working on a project. Now imagine working on a project like we worked on the template earlier, with 30 people working on the same thing. That's teletype. It feels like hell to me. No, worse than hell. *Whatever is below it. Probably a Primark on a Saturday.*
 
 
 
