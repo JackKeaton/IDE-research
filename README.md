@@ -60,11 +60,11 @@ Having infinite options to choose from is usually great, but as a beginning code
  - [ ]Pick a UI
  - [ ]Marvel at your new world
 
-### Why choose this UI?
- - Beginner friendly
-  - Easy setup
-  - themes and UI's readily Available
-  - great opening screen and tutorials
+### Why I chose ATOM?
+- Beginner friendly
+   - Easy setup
+   - themes and UI's readily Available
+   - great opening screen and tutorials
  - Looks great
  - Smoother than a sax solo :smirk:
 
