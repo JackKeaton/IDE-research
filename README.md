@@ -55,10 +55,10 @@ Having infinite options to choose from is usually great, but as a beginning code
 
 ### Suggestions
 
- - [x]Install ATOM
- - [x]Choose a theme
- - [ ]Pick a UI
- - [ ]Marvel at your new world
+- [x] Install ATOM
+- [x] Choose a theme
+- [ ] Pick a UI
+- [ ] Marvel at your new world
 
 ### Why I chose ATOM?
 - Beginner friendly
