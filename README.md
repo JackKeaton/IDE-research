@@ -28,7 +28,7 @@ Feature | Detail
 Available packets | 5.500
 Visual | Themes
 Aid | UI
-Apps | Javascript editing possible
+Apps | Javascript editing possible for add-ons
 
 **3. Multiplatform**
 
