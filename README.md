@@ -1,4 +1,4 @@
-<center> # ATOM. THE BOMB.COM </center>
+# ATOM. THE BOMB.COM
 
 ![Atom logo](./logo.png)
 
