@@ -79,5 +79,15 @@ Having infinite options to choose from is usually great, but as a beginning code
  - Looks great
  - Smoother than a sax solo :smirk:
 
+### Showing off!
+Here's a video!
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/bo5MM2N_3tw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
+
 
 ## [DOWNLOAD HERE](https://atom.io/download/deb)
