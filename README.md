@@ -1,6 +1,4 @@
-# ATOM IDE
-
-## ATOM. THE BOMB.COM
+# ATOM. THE BOMB.COM
 
 ![Atom logo](./logo.png)
 
