@@ -1,6 +1,6 @@
 # ATOM IDE
 
-## Why the ATOM IDE is a good idea.
+## ATOM. THE BOMB.COM
 
 ![Atom logo](./logo.png)
 
