@@ -80,12 +80,12 @@ Having infinite options to choose from is usually great, but as a beginning code
  - Smoother than a sax solo :smirk:
 
 ### Showing off!
-Here's a video!
+Click here for a video!
+
+[![A video showing off ATOM](http://img.youtube.com/vi/bo5MM2N_3tw/0.jpg)](http://www.youtube.com/watch?v=bo5MM2N_3tw "Video")
 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/bo5MM2N_3tw" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
 
 
 
